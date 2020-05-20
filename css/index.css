@@ -127,9 +127,10 @@ p.center a:hover{
 .second-gallery .flickity-button {
     display: none;
 }
-/* .second-gallery .flickity-page-dots{
-    margin-top: 40px !important;
-} */
+
+.second-gallery .flickity-page-dots{
+    margin-left: 5px !important;
+}
 .novedades-gallery{
     width: 52%;
     text-align: center;
@@ -142,10 +143,11 @@ p.center a:hover{
 .img, .more{
     float: left;
     box-sizing: border-box;
-    width: 50%;
 }
 .img{
     margin-top: 22px;
+    width: 38%;
+    margin-left: 24px;
 }
 
 .more{
@@ -154,6 +156,7 @@ p.center a:hover{
     text-align: left;
     line-height: 1.5em;
     margin-top: 10px;
+    width: 50%;
 }
 .more a{
     text-decoration: none;

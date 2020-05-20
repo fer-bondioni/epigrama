@@ -40,6 +40,12 @@
     padding-right: 10px;
     font-size: 20px;
 }
+.bottom a{
+    text-decoration: none; 
+;}
+.bottom {
+    margin-bottom: 8px;
+}
 .book p{
     margin-bottom: 8px;
 }

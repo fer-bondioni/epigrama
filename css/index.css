@@ -130,6 +130,7 @@ p.center a:hover{
 
 .second-gallery .flickity-page-dots{
     margin-left: 5px !important;
+    bottom: -46px !important;
 }
 .novedades-gallery{
     width: 52%;

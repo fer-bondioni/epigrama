@@ -228,13 +228,14 @@ nav ul li a:hover{
 }
 
 .footer1{
-    font-size: 0.4em;
+    font-size: 0.6em;
     width: 30%;
+    margin-top: -5px;
 }
 
 .nav-footer1{
     width: 40%;
-    margin-top: -14.5px;
+    margin-top: -17px;
     padding-left: 40px;
 }
 
